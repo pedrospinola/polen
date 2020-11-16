@@ -19,6 +19,20 @@
 		B4CF07D3255D82580014684F /* polenAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4CF07D2255D82580014684F /* polenAppTests.swift */; };
 		B4CF07DE255D82580014684F /* polenAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4CF07DD255D82580014684F /* polenAppUITests.swift */; };
 		E94B3AF8EC2D4F06C53D64E0 /* Pods_polenApp_polenAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ECB933D687BCAF0995CCC39 /* Pods_polenApp_polenAppUITests.framework */; };
+		ED3605E62562A55600E22E2D /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3605E52562A55600E22E2D /* Onboarding.swift */; };
+		ED3605EB2562A59E00E22E2D /* Mapa.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3605EA2562A59E00E22E2D /* Mapa.swift */; };
+		ED3605F52562A5DD00E22E2D /* Favoritos.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3605F42562A5DD00E22E2D /* Favoritos.swift */; };
+		ED3605FD2562A64500E22E2D /* MuralDaInstituicao.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3605FC2562A64500E22E2D /* MuralDaInstituicao.swift */; };
+		ED3606022562A6B400E22E2D /* MeuMural.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606012562A6B400E22E2D /* MeuMural.swift */; };
+		ED3606072562A6CB00E22E2D /* Recursos.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606062562A6CB00E22E2D /* Recursos.swift */; };
+		ED36060C2562A90100E22E2D /* Ajuda.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED36060B2562A90100E22E2D /* Ajuda.swift */; };
+		ED3606112562A92800E22E2D /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606102562A92800E22E2D /* Login.swift */; };
+		ED3606162562A93E00E22E2D /* Cadastro.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606152562A93E00E22E2D /* Cadastro.swift */; };
+		ED36062A2562AEB600E22E2D /* Instituicao.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606292562AEB600E22E2D /* Instituicao.swift */; };
+		ED36062F2562AF0B00E22E2D /* CardAjuda.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED36062E2562AF0B00E22E2D /* CardAjuda.swift */; };
+		ED3606342562AF1A00E22E2D /* CardHistoria.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606332562AF1A00E22E2D /* CardHistoria.swift */; };
+		ED36063A2562AF3500E22E2D /* CardFavorito.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606392562AF3500E22E2D /* CardFavorito.swift */; };
+		ED3606422562AF4900E22E2D /* CardRecurso.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3606412562AF4900E22E2D /* CardRecurso.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +77,20 @@
 		B4CF07DF255D82580014684F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFC1477201BD9DA22B344656 /* Pods-polenApp-polenAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenApp-polenAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-polenApp-polenAppUITests/Pods-polenApp-polenAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E322E7370C861BF139460D25 /* Pods-polenApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenApp.release.xcconfig"; path = "Target Support Files/Pods-polenApp/Pods-polenApp.release.xcconfig"; sourceTree = "<group>"; };
+		ED3605E52562A55600E22E2D /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		ED3605EA2562A59E00E22E2D /* Mapa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mapa.swift; sourceTree = "<group>"; };
+		ED3605F42562A5DD00E22E2D /* Favoritos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favoritos.swift; sourceTree = "<group>"; };
+		ED3605FC2562A64500E22E2D /* MuralDaInstituicao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuralDaInstituicao.swift; sourceTree = "<group>"; };
+		ED3606012562A6B400E22E2D /* MeuMural.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeuMural.swift; sourceTree = "<group>"; };
+		ED3606062562A6CB00E22E2D /* Recursos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recursos.swift; sourceTree = "<group>"; };
+		ED36060B2562A90100E22E2D /* Ajuda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ajuda.swift; sourceTree = "<group>"; };
+		ED3606102562A92800E22E2D /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		ED3606152562A93E00E22E2D /* Cadastro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cadastro.swift; sourceTree = "<group>"; };
+		ED3606292562AEB600E22E2D /* Instituicao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instituicao.swift; sourceTree = "<group>"; };
+		ED36062E2562AF0B00E22E2D /* CardAjuda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardAjuda.swift; sourceTree = "<group>"; };
+		ED3606332562AF1A00E22E2D /* CardHistoria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardHistoria.swift; sourceTree = "<group>"; };
+		ED3606392562AF3500E22E2D /* CardFavorito.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFavorito.swift; sourceTree = "<group>"; };
+		ED3606412562AF4900E22E2D /* CardRecurso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardRecurso.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +146,8 @@
 		B4CF07B7255D82580014684F /* polenApp */ = {
 			isa = PBXGroup;
 			children = (
+				ED3606252562AA9000E22E2D /* Views */,
+				ED3606202562A9FD00E22E2D /* Models */,
 				B4CF07B8255D82580014684F /* AppDelegate.swift */,
 				B4CF07BA255D82580014684F /* SceneDelegate.swift */,
 				B4CF07BC255D82580014684F /* ViewController.swift */,
@@ -168,8 +198,35 @@
 				4C8423CC134177AFDCA7660D /* Pods-polenAppTests.debug.xcconfig */,
 				6682207C5CF71FA5677B6D36 /* Pods-polenAppTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		ED3606202562A9FD00E22E2D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				ED3606292562AEB600E22E2D /* Instituicao.swift */,
+				ED36062E2562AF0B00E22E2D /* CardAjuda.swift */,
+				ED3606332562AF1A00E22E2D /* CardHistoria.swift */,
+				ED3606392562AF3500E22E2D /* CardFavorito.swift */,
+				ED3606412562AF4900E22E2D /* CardRecurso.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		ED3606252562AA9000E22E2D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED3605E52562A55600E22E2D /* Onboarding.swift */,
+				ED3605EA2562A59E00E22E2D /* Mapa.swift */,
+				ED3605F42562A5DD00E22E2D /* Favoritos.swift */,
+				ED3606062562A6CB00E22E2D /* Recursos.swift */,
+				ED3605FC2562A64500E22E2D /* MuralDaInstituicao.swift */,
+				ED36060B2562A90100E22E2D /* Ajuda.swift */,
+				ED3606102562A92800E22E2D /* Login.swift */,
+				ED3606152562A93E00E22E2D /* Cadastro.swift */,
+				ED3606012562A6B400E22E2D /* MeuMural.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -376,8 +433,22 @@
 			files = (
 				B4CF07C3255D82580014684F /* polenApp.xcdatamodeld in Sources */,
 				B4CF07BD255D82580014684F /* ViewController.swift in Sources */,
+				ED36062A2562AEB600E22E2D /* Instituicao.swift in Sources */,
+				ED3605EB2562A59E00E22E2D /* Mapa.swift in Sources */,
+				ED3606112562A92800E22E2D /* Login.swift in Sources */,
+				ED36060C2562A90100E22E2D /* Ajuda.swift in Sources */,
+				ED36062F2562AF0B00E22E2D /* CardAjuda.swift in Sources */,
+				ED36063A2562AF3500E22E2D /* CardFavorito.swift in Sources */,
+				ED3606072562A6CB00E22E2D /* Recursos.swift in Sources */,
+				ED3606422562AF4900E22E2D /* CardRecurso.swift in Sources */,
+				ED3605E62562A55600E22E2D /* Onboarding.swift in Sources */,
 				B4CF07B9255D82580014684F /* AppDelegate.swift in Sources */,
+				ED3606342562AF1A00E22E2D /* CardHistoria.swift in Sources */,
+				ED3605FD2562A64500E22E2D /* MuralDaInstituicao.swift in Sources */,
 				B4CF07BB255D82580014684F /* SceneDelegate.swift in Sources */,
+				ED3606022562A6B400E22E2D /* MeuMural.swift in Sources */,
+				ED3605F52562A5DD00E22E2D /* Favoritos.swift in Sources */,
+				ED3606162562A93E00E22E2D /* Cadastro.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
