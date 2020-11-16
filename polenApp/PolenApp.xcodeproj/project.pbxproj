@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9694943CF59E2BEC86EC2688 /* Pods_polenAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F2ACB6B0676DA9A994FA0FF /* Pods_polenAppTests.framework */; };
-		9DD7130CFF8FFF9ABFEA9967 /* Pods_polenApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BECE83A8F091EEB0B88A3BD /* Pods_polenApp.framework */; };
 		B4CF07B9255D82580014684F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4CF07B8255D82580014684F /* AppDelegate.swift */; };
 		B4CF07BB255D82580014684F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4CF07BA255D82580014684F /* SceneDelegate.swift */; };
 		B4CF07BD255D82580014684F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4CF07BC255D82580014684F /* ViewController.swift */; };
@@ -18,7 +16,6 @@
 		B4CF07C8255D82580014684F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4CF07C6255D82580014684F /* LaunchScreen.storyboard */; };
 		B4CF07D3255D82580014684F /* PolenAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4CF07D2255D82580014684F /* PolenAppTests.swift */; };
 		B4CF07DE255D82580014684F /* PolenAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4CF07DD255D82580014684F /* PolenAppUITests.swift */; };
-		E94B3AF8EC2D4F06C53D64E0 /* Pods_polenApp_polenAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ECB933D687BCAF0995CCC39 /* Pods_polenApp_polenAppUITests.framework */; };
 		ED3605E62562A55600E22E2D /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3605E52562A55600E22E2D /* Onboarding.swift */; };
 		ED3605EB2562A59E00E22E2D /* Mapa.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3605EA2562A59E00E22E2D /* Mapa.swift */; };
 		ED3605F52562A5DD00E22E2D /* Favoritos.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3605F42562A5DD00E22E2D /* Favoritos.swift */; };
@@ -53,14 +50,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2BA840A1B2158AD75093466B /* Pods-polenApp-polenAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenApp-polenAppUITests.release.xcconfig"; path = "Target Support Files/Pods-polenApp-polenAppUITests/Pods-polenApp-polenAppUITests.release.xcconfig"; sourceTree = "<group>"; };
-		4BECE83A8F091EEB0B88A3BD /* Pods_polenApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_polenApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C8423CC134177AFDCA7660D /* Pods-polenAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenAppTests.debug.xcconfig"; path = "Target Support Files/Pods-polenAppTests/Pods-polenAppTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5296530C32FD9923086197F1 /* Pods-polenApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenApp.debug.xcconfig"; path = "Target Support Files/Pods-polenApp/Pods-polenApp.debug.xcconfig"; sourceTree = "<group>"; };
-		6682207C5CF71FA5677B6D36 /* Pods-polenAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenAppTests.release.xcconfig"; path = "Target Support Files/Pods-polenAppTests/Pods-polenAppTests.release.xcconfig"; sourceTree = "<group>"; };
-		8ECB933D687BCAF0995CCC39 /* Pods_polenApp_polenAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_polenApp_polenAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9F2ACB6B0676DA9A994FA0FF /* Pods_polenAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_polenAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B4CF07B5255D82580014684F /* polenApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = polenApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		17AEBDE061D884C61182E5D9 /* Pods-PolenAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolenAppTests.debug.xcconfig"; path = "Target Support Files/Pods-PolenAppTests/Pods-PolenAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		27AF32FFB2670239C097A92E /* Pods-PolenApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolenApp.release.xcconfig"; path = "Target Support Files/Pods-PolenApp/Pods-PolenApp.release.xcconfig"; sourceTree = "<group>"; };
+		3409B2CB4C389C7E64A30686 /* Pods-PolenApp-PolenAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolenApp-PolenAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-PolenApp-PolenAppUITests/Pods-PolenApp-PolenAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		A3E73AB96C689F8D3553FD04 /* Pods-PolenAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolenAppTests.release.xcconfig"; path = "Target Support Files/Pods-PolenAppTests/Pods-PolenAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		B4CF07B5255D82580014684F /* PolenApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PolenApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4CF07B8255D82580014684F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4CF07BA255D82580014684F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B4CF07BC255D82580014684F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,14 +63,13 @@
 		B4CF07C4255D82580014684F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4CF07C7255D82580014684F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4CF07C9255D82580014684F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B4CF07CE255D82580014684F /* polenAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = polenAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4CF07CE255D82580014684F /* PolenAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PolenAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4CF07D2255D82580014684F /* PolenAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolenAppTests.swift; sourceTree = "<group>"; };
 		B4CF07D4255D82580014684F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B4CF07D9255D82580014684F /* polenAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = polenAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4CF07D9255D82580014684F /* PolenAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PolenAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4CF07DD255D82580014684F /* PolenAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolenAppUITests.swift; sourceTree = "<group>"; };
 		B4CF07DF255D82580014684F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BFC1477201BD9DA22B344656 /* Pods-polenApp-polenAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenApp-polenAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-polenApp-polenAppUITests/Pods-polenApp-polenAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		E322E7370C861BF139460D25 /* Pods-polenApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-polenApp.release.xcconfig"; path = "Target Support Files/Pods-polenApp/Pods-polenApp.release.xcconfig"; sourceTree = "<group>"; };
+		EA3887175A52E580CDB31097 /* Pods-PolenApp-PolenAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolenApp-PolenAppUITests.release.xcconfig"; path = "Target Support Files/Pods-PolenApp-PolenAppUITests/Pods-PolenApp-PolenAppUITests.release.xcconfig"; sourceTree = "<group>"; };
 		ED3605E52562A55600E22E2D /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 		ED3605EA2562A59E00E22E2D /* Mapa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mapa.swift; sourceTree = "<group>"; };
 		ED3605F42562A5DD00E22E2D /* Favoritos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favoritos.swift; sourceTree = "<group>"; };
@@ -91,6 +84,7 @@
 		ED3606332562AF1A00E22E2D /* CardHistoria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardHistoria.swift; sourceTree = "<group>"; };
 		ED3606392562AF3500E22E2D /* CardFavorito.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFavorito.swift; sourceTree = "<group>"; };
 		ED3606412562AF4900E22E2D /* CardRecurso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardRecurso.swift; sourceTree = "<group>"; };
+		F2357B29BCF9B4DC70954B05 /* Pods-PolenApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolenApp.debug.xcconfig"; path = "Target Support Files/Pods-PolenApp/Pods-PolenApp.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +92,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DD7130CFF8FFF9ABFEA9967 /* Pods_polenApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -106,7 +99,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9694943CF59E2BEC86EC2688 /* Pods_polenAppTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -114,36 +106,42 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E94B3AF8EC2D4F06C53D64E0 /* Pods_polenApp_polenAppUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		54AA44940304409A8A540DE3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		B4CF07AC255D82570014684F = {
 			isa = PBXGroup;
 			children = (
-				B4CF07B7255D82580014684F /* polenApp */,
-				B4CF07D1255D82580014684F /* polenAppTests */,
-				B4CF07DC255D82580014684F /* polenAppUITests */,
+				B4CF07B7255D82580014684F /* PolenApp */,
+				B4CF07D1255D82580014684F /* PolenAppTests */,
+				B4CF07DC255D82580014684F /* PolenAppUITests */,
 				B4CF07B6255D82580014684F /* Products */,
 				DAAA4530E7B2AF760B238D75 /* Pods */,
-				C7EEDD278916D9C537BC6B87 /* Frameworks */,
+				54AA44940304409A8A540DE3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		B4CF07B6255D82580014684F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B4CF07B5255D82580014684F /* polenApp.app */,
-				B4CF07CE255D82580014684F /* polenAppTests.xctest */,
-				B4CF07D9255D82580014684F /* polenAppUITests.xctest */,
+				B4CF07B5255D82580014684F /* PolenApp.app */,
+				B4CF07CE255D82580014684F /* PolenAppTests.xctest */,
+				B4CF07D9255D82580014684F /* PolenAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B4CF07B7255D82580014684F /* polenApp */ = {
+		B4CF07B7255D82580014684F /* PolenApp */ = {
 			isa = PBXGroup;
 			children = (
 				ED3606252562AA9000E22E2D /* Views */,
@@ -157,46 +155,36 @@
 				B4CF07C9255D82580014684F /* Info.plist */,
 				B4CF07C1255D82580014684F /* polenApp.xcdatamodeld */,
 			);
-			path = polenApp;
+			path = PolenApp;
 			sourceTree = "<group>";
 		};
-		B4CF07D1255D82580014684F /* polenAppTests */ = {
+		B4CF07D1255D82580014684F /* PolenAppTests */ = {
 			isa = PBXGroup;
 			children = (
 				B4CF07D2255D82580014684F /* PolenAppTests.swift */,
 				B4CF07D4255D82580014684F /* Info.plist */,
 			);
-			path = polenAppTests;
+			path = PolenAppTests;
 			sourceTree = "<group>";
 		};
-		B4CF07DC255D82580014684F /* polenAppUITests */ = {
+		B4CF07DC255D82580014684F /* PolenAppUITests */ = {
 			isa = PBXGroup;
 			children = (
 				B4CF07DD255D82580014684F /* PolenAppUITests.swift */,
 				B4CF07DF255D82580014684F /* Info.plist */,
 			);
-			path = polenAppUITests;
-			sourceTree = "<group>";
-		};
-		C7EEDD278916D9C537BC6B87 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				4BECE83A8F091EEB0B88A3BD /* Pods_polenApp.framework */,
-				8ECB933D687BCAF0995CCC39 /* Pods_polenApp_polenAppUITests.framework */,
-				9F2ACB6B0676DA9A994FA0FF /* Pods_polenAppTests.framework */,
-			);
-			name = Frameworks;
+			path = PolenAppUITests;
 			sourceTree = "<group>";
 		};
 		DAAA4530E7B2AF760B238D75 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				5296530C32FD9923086197F1 /* Pods-polenApp.debug.xcconfig */,
-				E322E7370C861BF139460D25 /* Pods-polenApp.release.xcconfig */,
-				BFC1477201BD9DA22B344656 /* Pods-polenApp-polenAppUITests.debug.xcconfig */,
-				2BA840A1B2158AD75093466B /* Pods-polenApp-polenAppUITests.release.xcconfig */,
-				4C8423CC134177AFDCA7660D /* Pods-polenAppTests.debug.xcconfig */,
-				6682207C5CF71FA5677B6D36 /* Pods-polenAppTests.release.xcconfig */,
+				F2357B29BCF9B4DC70954B05 /* Pods-PolenApp.debug.xcconfig */,
+				27AF32FFB2670239C097A92E /* Pods-PolenApp.release.xcconfig */,
+				3409B2CB4C389C7E64A30686 /* Pods-PolenApp-PolenAppUITests.debug.xcconfig */,
+				EA3887175A52E580CDB31097 /* Pods-PolenApp-PolenAppUITests.release.xcconfig */,
+				17AEBDE061D884C61182E5D9 /* Pods-PolenAppTests.debug.xcconfig */,
+				A3E73AB96C689F8D3553FD04 /* Pods-PolenAppTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -232,11 +220,11 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B4CF07B4255D82580014684F /* polenApp */ = {
+		B4CF07B4255D82580014684F /* PolenApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B4CF07E2255D82580014684F /* Build configuration list for PBXNativeTarget "polenApp" */;
+			buildConfigurationList = B4CF07E2255D82580014684F /* Build configuration list for PBXNativeTarget "PolenApp" */;
 			buildPhases = (
-				48C61EF01A83F45AD589A096 /* [CP] Check Pods Manifest.lock */,
+				9B74FB84F527354280E07E43 /* [CP] Check Pods Manifest.lock */,
 				B4CF07B1255D82580014684F /* Sources */,
 				B4CF07B2255D82580014684F /* Frameworks */,
 				B4CF07B3255D82580014684F /* Resources */,
@@ -246,16 +234,16 @@
 			);
 			dependencies = (
 			);
-			name = polenApp;
+			name = PolenApp;
 			productName = polenApp;
-			productReference = B4CF07B5255D82580014684F /* polenApp.app */;
+			productReference = B4CF07B5255D82580014684F /* PolenApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B4CF07CD255D82580014684F /* polenAppTests */ = {
+		B4CF07CD255D82580014684F /* PolenAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B4CF07E5255D82580014684F /* Build configuration list for PBXNativeTarget "polenAppTests" */;
+			buildConfigurationList = B4CF07E5255D82580014684F /* Build configuration list for PBXNativeTarget "PolenAppTests" */;
 			buildPhases = (
-				3CA1AA975179D395F361D52B /* [CP] Check Pods Manifest.lock */,
+				7645A51202AA22F111E165AA /* [CP] Check Pods Manifest.lock */,
 				B4CF07CA255D82580014684F /* Sources */,
 				B4CF07CB255D82580014684F /* Frameworks */,
 				B4CF07CC255D82580014684F /* Resources */,
@@ -265,16 +253,16 @@
 			dependencies = (
 				B4CF07D0255D82580014684F /* PBXTargetDependency */,
 			);
-			name = polenAppTests;
+			name = PolenAppTests;
 			productName = polenAppTests;
-			productReference = B4CF07CE255D82580014684F /* polenAppTests.xctest */;
+			productReference = B4CF07CE255D82580014684F /* PolenAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		B4CF07D8255D82580014684F /* polenAppUITests */ = {
+		B4CF07D8255D82580014684F /* PolenAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B4CF07E8255D82580014684F /* Build configuration list for PBXNativeTarget "polenAppUITests" */;
+			buildConfigurationList = B4CF07E8255D82580014684F /* Build configuration list for PBXNativeTarget "PolenAppUITests" */;
 			buildPhases = (
-				7A7AAA1041000171F59E6354 /* [CP] Check Pods Manifest.lock */,
+				9847C296ADC26C41650F8BC2 /* [CP] Check Pods Manifest.lock */,
 				B4CF07D5255D82580014684F /* Sources */,
 				B4CF07D6255D82580014684F /* Frameworks */,
 				B4CF07D7255D82580014684F /* Resources */,
@@ -284,9 +272,9 @@
 			dependencies = (
 				B4CF07DB255D82580014684F /* PBXTargetDependency */,
 			);
-			name = polenAppUITests;
+			name = PolenAppUITests;
 			productName = polenAppUITests;
-			productReference = B4CF07D9255D82580014684F /* polenAppUITests.xctest */;
+			productReference = B4CF07D9255D82580014684F /* PolenAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -311,7 +299,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B4CF07B0255D82570014684F /* Build configuration list for PBXProject "polenApp" */;
+			buildConfigurationList = B4CF07B0255D82570014684F /* Build configuration list for PBXProject "PolenApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -324,9 +312,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B4CF07B4255D82580014684F /* polenApp */,
-				B4CF07CD255D82580014684F /* polenAppTests */,
-				B4CF07D8255D82580014684F /* polenAppUITests */,
+				B4CF07B4255D82580014684F /* PolenApp */,
+				B4CF07CD255D82580014684F /* PolenAppTests */,
+				B4CF07D8255D82580014684F /* PolenAppUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -359,7 +347,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		3CA1AA975179D395F361D52B /* [CP] Check Pods Manifest.lock */ = {
+		7645A51202AA22F111E165AA /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -374,14 +362,14 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-polenAppTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-PolenAppTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		48C61EF01A83F45AD589A096 /* [CP] Check Pods Manifest.lock */ = {
+		9847C296ADC26C41650F8BC2 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -396,14 +384,14 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-polenApp-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-PolenApp-PolenAppUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		7A7AAA1041000171F59E6354 /* [CP] Check Pods Manifest.lock */ = {
+		9B74FB84F527354280E07E43 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -418,7 +406,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-polenApp-polenAppUITests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-PolenApp-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -491,12 +479,12 @@
 /* Begin PBXTargetDependency section */
 		B4CF07D0255D82580014684F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B4CF07B4255D82580014684F /* polenApp */;
+			target = B4CF07B4255D82580014684F /* PolenApp */;
 			targetProxy = B4CF07CF255D82580014684F /* PBXContainerItemProxy */;
 		};
 		B4CF07DB255D82580014684F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B4CF07B4255D82580014684F /* polenApp */;
+			target = B4CF07B4255D82580014684F /* PolenApp */;
 			targetProxy = B4CF07DA255D82580014684F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -572,10 +560,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -627,9 +617,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "";
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -639,17 +631,17 @@
 		};
 		B4CF07E3255D82580014684F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5296530C32FD9923086197F1 /* Pods-polenApp.debug.xcconfig */;
+			baseConfigurationReference = F2357B29BCF9B4DC70954B05 /* Pods-PolenApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = polenApp/Info.plist;
+				INFOPLIST_FILE = PolenApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mistureba.polenApp;
+				PRODUCT_BUNDLE_IDENTIFIER = mistureba.PolenApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -658,17 +650,17 @@
 		};
 		B4CF07E4255D82580014684F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E322E7370C861BF139460D25 /* Pods-polenApp.release.xcconfig */;
+			baseConfigurationReference = 27AF32FFB2670239C097A92E /* Pods-PolenApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = polenApp/Info.plist;
+				INFOPLIST_FILE = PolenApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mistureba.polenApp;
+				PRODUCT_BUNDLE_IDENTIFIER = mistureba.PolenApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -677,7 +669,7 @@
 		};
 		B4CF07E6255D82580014684F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C8423CC134177AFDCA7660D /* Pods-polenAppTests.debug.xcconfig */;
+			baseConfigurationReference = 17AEBDE061D884C61182E5D9 /* Pods-PolenAppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -693,13 +685,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/polenApp.app/polenApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PolenApp.app/PolenApp";
 			};
 			name = Debug;
 		};
 		B4CF07E7255D82580014684F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6682207C5CF71FA5677B6D36 /* Pods-polenAppTests.release.xcconfig */;
+			baseConfigurationReference = A3E73AB96C689F8D3553FD04 /* Pods-PolenAppTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -715,13 +707,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/polenApp.app/polenApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PolenApp.app/PolenApp";
 			};
 			name = Release;
 		};
 		B4CF07E9255D82580014684F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BFC1477201BD9DA22B344656 /* Pods-polenApp-polenAppUITests.debug.xcconfig */;
+			baseConfigurationReference = 3409B2CB4C389C7E64A30686 /* Pods-PolenApp-PolenAppUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -741,7 +733,7 @@
 		};
 		B4CF07EA255D82580014684F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2BA840A1B2158AD75093466B /* Pods-polenApp-polenAppUITests.release.xcconfig */;
+			baseConfigurationReference = EA3887175A52E580CDB31097 /* Pods-PolenApp-PolenAppUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -762,7 +754,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B4CF07B0255D82570014684F /* Build configuration list for PBXProject "polenApp" */ = {
+		B4CF07B0255D82570014684F /* Build configuration list for PBXProject "PolenApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4CF07E0255D82580014684F /* Debug */,
@@ -771,7 +763,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B4CF07E2255D82580014684F /* Build configuration list for PBXNativeTarget "polenApp" */ = {
+		B4CF07E2255D82580014684F /* Build configuration list for PBXNativeTarget "PolenApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4CF07E3255D82580014684F /* Debug */,
@@ -780,7 +772,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B4CF07E5255D82580014684F /* Build configuration list for PBXNativeTarget "polenAppTests" */ = {
+		B4CF07E5255D82580014684F /* Build configuration list for PBXNativeTarget "PolenAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4CF07E6255D82580014684F /* Debug */,
@@ -789,7 +781,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B4CF07E8255D82580014684F /* Build configuration list for PBXNativeTarget "polenAppUITests" */ = {
+		B4CF07E8255D82580014684F /* Build configuration list for PBXNativeTarget "PolenAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4CF07E9255D82580014684F /* Debug */,
